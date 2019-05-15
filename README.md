@@ -1,4 +1,4 @@
-# DynamicProgramming-SmallestSumTriangle
+# Minimum Sum Path in a Triangle
 I designed a dynamic programming algorithm and implemented it with Python to find the smallest sum in a descent from the triangle apex to its base through a sequence of adjacent numbers in an equilateral triangle with n numbers in its base.
 
 
